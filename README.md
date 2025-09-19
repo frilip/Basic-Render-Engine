@@ -1,5 +1,7 @@
 # Basic-Render-Engine
-In Python, Phong, gouraud, flat shading, UV textures and more
+Phong, gouraud, flat shading, UV textures, camera and object translations and rotations and more.
+All programmed nativelly in python, requires libraries:
+numpy, matplotlib
 
 <img src="Texture_phong.png">
 <img src="Phong_shading_reflexion_modes.png">
